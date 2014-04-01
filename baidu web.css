@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	text-align:center;
+	font-size:14px
+}
+
+
+.conner{
+	font-size:12px;
+	text-align:right;
+
+.center{
+	font-size::18px;
+}
+
+.botton{
+	font-size:12px;
+}
+.copy{
+	color:#999;
+}
